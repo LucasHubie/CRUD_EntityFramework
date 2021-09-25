@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_EntityFramework", "CRUD_EntityFramework\CRUD_EntityFramework.csproj", "{E8436D6A-E021-4CA2-A1E4-D1E644B334EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8436D6A-E021-4CA2-A1E4-D1E644B334EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8436D6A-E021-4CA2-A1E4-D1E644B334EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8436D6A-E021-4CA2-A1E4-D1E644B334EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8436D6A-E021-4CA2-A1E4-D1E644B334EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAAB6895-7540-4A41-8E91-5E4965D63F00}
+	EndGlobalSection
+EndGlobal
